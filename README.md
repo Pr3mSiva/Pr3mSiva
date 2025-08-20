@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I'm Prem Siva
 
-<!--
-**Pr3mSiva/Pr3mSiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Machine Learning Engineering Student | 💡 Passionate about AI & ML  
+💻 Exploring Data Science, Full Stack Development & Competitive Programming  
+🚀 Goal: GSoC 2026 | 📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** C, C++, Python, HTML, CSS  
+- **Libraries:** NumPy, Pandas, Matplotlib  
+- **Other:** Git, Linux, SQL  
+
+---
+
+## 📌 Current Learning
+- Data Structures & Algorithms in C++  
+- Database Management Systems  
+- Machine Learning Libraries
+  
+---
+
+## 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr3mSiva&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr3mSiva&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Projects
+- 📊 **Weather Data Analysis** – Python project using Pandas, Matplotlib  
+- 🛠️ **IoT Attendance System** – Arduino + RFID + Google Sheets
+
+---
+
+✨ *Always learning, always building!*
