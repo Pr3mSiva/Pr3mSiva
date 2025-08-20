@@ -21,14 +21,7 @@
 ---
 
 ## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr3mSiva&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr3mSiva&layout=compact&theme=radical)  
-
----
-
-## 🌟 Projects
-- 📊 **Weather Data Analysis** – Python project using Pandas, Matplotlib  
-- 🛠️ **IoT Attendance System** – Arduino + RFID + Google Sheets
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr3mSiva&show_icons=true&theme=radical)    
 
 ---
 
