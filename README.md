@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Prem Siva
+# Hi!, I'm Prem Siva
 
 🎓 2nd Year Machine Learning Engineering Student | 💡 Passionate about AI & ML  
 💻 Exploring Data Science, Full Stack Development & Competitive Programming  
